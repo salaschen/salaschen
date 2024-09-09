@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salaschen
 - 👀 I’m interested in Coding. 
-- 🌱 I’m currently learning Machine Learning and Algorithms.
+- 🌱 I’m currently learning Kotlin and Algorithms.
 - 📫 How to reach me: ruowei.chen.aus'At'gmail.com.  
 - My Portforlio:
 	-	Wordle unlimited: https://calm-water-0e69c2a00.5.azurestaticapps.net/
