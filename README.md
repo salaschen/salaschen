@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin and Algorithms.
 - 📫 How to reach me: ruowei.chen.aus'At'gmail.com.  
 - My Portforlio:
-	-	Wordle unlimited: https://calm-water-0e69c2a00.5.azurestaticapps.net/
+	-	Wordle unlimited: https://calm-water-0e69c2a00.5.azurestaticapps.net/  (downed at the moment)
 	-	Wordle Helper: TBD
 
 <!---
